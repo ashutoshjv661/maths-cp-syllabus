@@ -1,3 +1,5 @@
+# A comprehensive list of Mathematics Topics for Competitive Coding. This list is not orginally written by me but will always help you in your journey of Competitive Programming ^_^ 🥳🔥
+
 # Competitive Programming Syllabus
 
 ## Geometry
